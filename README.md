@@ -2,11 +2,11 @@
 ## Project Overview
 This project analyzes a dataset of 911 calls to uncover patterns and insights. The data used in this project comes from Montgomery County in the US, and it includes the following information:
 
-Timestamps
-Location
-Emergency type
-Description
-The goal is to explore the data, identify trends, and gain insights into 911 calls, such as:
+* Timestamps
+* Location
+* Emergency type
+* Description
+* The goal is to explore the data, identify trends, and gain insights into 911 calls, such as:
 
 ## The most common reasons for calls
 Seasonal or time-based patterns in calls
